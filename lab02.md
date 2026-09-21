@@ -1,1 +1,1 @@
-![Arranque de xv6 y comandos de la Parte A](imgs/parteA_1.png)
+![Arranque de xv6 y comandos de la Parte A](imgs/Pruebas_ParteA.png)
